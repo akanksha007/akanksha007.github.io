@@ -1,0 +1,19 @@
+# Site navigation links
+
+- title: About Me
+  url: /about/
+
+- title: Projects
+  url: /project/
+
+- title: Contact Me
+  url: /contact/
+
+- title: Theme Setup
+  url: /theme-setup/
+
+- title: Made Mistakes
+  url: http://mademistakes.com
+
+- title: Search
+  url: /search/
