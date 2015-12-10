@@ -5,8 +5,8 @@ excerpt: "Details of Akanksha"
 modified: 2014-08-08T19:44:38.564948-04:00  
 ---
 
-##Working towards: 
-Contribution of my skills in building the technologies solving people’s problems and hence, inherit skills from the team for personal growth.
+##Objective: 
+To learn, grow myself and help the company grow along, in various aspects of challenging problems.
 
 ## Work Experience:
 3 Months in Jombay as a Software Engineer.
