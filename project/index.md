@@ -5,22 +5,28 @@ excerpt: "Geek things done by me"
 modified: 2014-08-08T19:44:38.564948-04:00  
 ---
 
-Geek things done by me.
+Geek things done by me (Just a few to list).
 
-## * Database Privacy using Multi­level Trust and Attribute Key Encryption (June 2013-April 2014)
-Introduces random perturbation to individual values to preserve privacy before data are published. Developed using Net Beans IDE 7.0.1 ,Java, JSP as scripting languages, Apache­Tomcat­7.0.37,MySql
+## * Bookepdia (August 2015)
+Webapp using django framework. Webapp displays multiple image on home page, of multiple items. Hovering on image displays item's name. Clicking on each image opens a webpage with brief description of the content related to item.
+<a target="_blank" href="https://github.com/akanksha007/bookepdia">Link to the project</a>
 
-## * Website development­ Computer Science Department of KIT COEK (July 2013-­December 2013)
-The website provided complete information for computer science department of KITCOEK.It was developed using JSP,PHP and MySql.The website was user friendly and sim ple for novice users.
+## * Project Euler (July 2015)
+Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve.
+<a target="_blank" href="https://github.com/akanksha007/project_euler">Link to the project</a>
+
+## * RssReader (August 2015)
+A webapp to read Rss from almost any given url.It is developed using python webframework(web.py).
+<a target="_blank" href="https://github.com/akanksha007/RssReader">Link to the project</a>
+
+## * Quizot (December 2015)
+Quizot is a platform for quiz developed in Ruby on Rails. It enables users to take a quiz in an easy and effective manner of a variety of topics such as histoy,literature,geography.
+<a target="_blank" href="https://github.com/akanksha007/Quizot">Link to the project</a>
 
 ## * Bus Reservation System (March 2013­-May 2013)
 This was the part of my academic project developed in C which provided a basic GUI for reserving the tickets.It has two portals one for admin to edit /change the bus details and the other was for customer to the bus tickets.
 
-## * Facebook Comments (May 2015-June 2015)
-It auto comments on all the post (who have wished happy Birthday) and is developed using python.
 
-## * Email Notification (May 2015-June 2015)
-It is developed using python and provides you the notification whenever new mail arrives to the mentioned email address.
 
 
 
