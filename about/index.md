@@ -11,7 +11,7 @@ To learn, grow myself and help the company grow along, in various aspects of cha
 ## Work Experience:
 3 Months in Jombay as a Software Engineer.
 
-## Educational details:
+## Academic Qualification:
 B.Tech in Computer Science and Engg. from kolhapur Institute of Technology, kolhapur, in 2014 with a First Class-Distinction
 
 ## Things I have worked with:
