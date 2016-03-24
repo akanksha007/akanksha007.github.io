@@ -22,7 +22,7 @@ A webapp to read Rss from almost any given url.It is developed using python webf
 ## * Bus Reservation System           (March 2013­-May 2013)
 This was the part of my academic project developed in C which provided a basic GUI for reserving the tickets.It has two portals one for admin to edit /change the bus details and the other was for customer to the bus tickets.
 
-## * Quizot (ongoing)                 (March 2016)
+## * TaxionDemand (ongoing)                 (March 2016)
 A webapp that finds the nearest taxi based on location  and provides pickup and drop 
 service. Developed using RubyonRails and uses the gem 'geokit­rails'. 
 <a target="_blank" href="https://github.com/akanksha007/TaxionDemand">Link to the project</a>
