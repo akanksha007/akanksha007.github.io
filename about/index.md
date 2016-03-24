@@ -9,16 +9,16 @@ modified: 2014-08-08T19:44:38.564948-04:00
 To learn, grow myself and help the company grow along, in various aspects of challenging problems.
 
 ## Work Experience:
-3 Months in Jombay as a Software Engineer.
+6 Months in Jombay as a Full-Stack Developer.
 
 ## Academic Qualification:
 B.Tech in Computer Science and Engg. from kolhapur Institute of Technology, kolhapur, in 2014 with a First Class-Distinction
 
 ## Things I have worked with:
 
-* Programming languages: Python,C,C++
-* Website Designing: Django,Ruby on Rails,HTML
-* Database: SQL
+* Programming languages: Python, Ruby, C, C++
+* Website Designing: Ruby on Rails, Django, HTML
+* Database: PostgresSql
 * Repositories: Github
 * Operating System:Linux,Windows
 

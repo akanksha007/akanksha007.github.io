@@ -23,7 +23,7 @@ LinkedIn
 Github
 </a>
 
-<a class="author-social" target="_blank" href="mailto:http://www.about.me/acsrujan">
+<a class="author-social" target="_blank" href="mailto:http://www.about.me/akanksha007">
 <i class="fa fa-envelope-o fa-fw"></i>
 Email
 </a>
